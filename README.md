@@ -141,6 +141,13 @@ COMPILO MODELO
  
  Realizamos la consulta y capturamos el documento salvado de nuestra busqueda de <b>sillas</b> en el sitio de [easy.com.ar](https://www.easy.com.ar)
  
+ <code>db.products.find()</code>
+ 
+ Datos de retorno:
+ 
+ <code>{ "_id" : ObjectId("5c5ca6654de618d7654a0d57"), "title" : "Silla Alta Infantil", "sku" : 1516875, "price" : 690, "discount" : "40%", "category" : "NOT", "description" : "NOT", "image" : "https://easyar.scene7.com/is/image/EasyArg//1516875", "__v" : 0 }</code>
+ 
+ 
  * Mas info: en los enlaces adjuntados.
  
  
